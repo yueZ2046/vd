@@ -1,0 +1,17 @@
+body{
+  text-align: center;
+}
+
+.button{
+  margin:2em;
+}
+
+a{
+  color:black;
+  text-decoration:none;
+}
+
+a:hover{
+  color:white;
+  text-decoration:none;
+}
